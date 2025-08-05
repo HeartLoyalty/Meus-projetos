@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Futuro do desenvolvimento web</title>
+        <meta name="description" content="O futuro do desenvolvimento web">
+    </head>
+    <style>
+        * {
+         font-family: Arial, Helvetica, sans-serif;
+         color: white;
+         max-width: 670px;
+          }
+
+        body {
+        background-color: #0D1117;
+          }
+
+     .liPTU {
+         margin-bottom: 10px;
+           }
+
+     #hrFooter {
+         height: 4px;
+        background-color: #3D444D;
+        border: none;
+        }
+
+        h2 {
+         margin-bottom: 0;
+          }
+
+        hr {
+            height: 0%;
+            opacity: 0.1;
+           }
+    </style>
+    <body>
+        <header>
+            <h1>🚀 O Futuro do Desenvolvimento Web</h1><hr>
+            <p>O desenvolvimento web está em constante evolução, trazendo novas tecnologias e desafios. Criar um site moderno envolve conhecer diferentes linguagens e práticas recomendadas.</p>
+        </header>
+        <main>
+            <section>
+
+
+            <h2>📌 Principais Tecnologias Utilizadas </h2><hr>
+            <p>O desenvolvimento web pode ser dividido em três camadas principais:</p>
+                <ol>
+                 <li><strong>Frontend</strong> – Responsável pela interface visual. Tecnologias principais:</li>
+
+                     <ul>
+                        <li>HTML (estrutura)</li>
+                        <li>CSS (estilo)</li>
+                        <li>JavaScript (interatividade)</li>
+                     </ul>
+
+                 <li><strong>Backend</strong> – Responsável pelo funcionamento interno do site. Principais tecnologias:</li>
+                    <ul>
+                        <li>Node.js</li>
+                        <li>Python (Django, Flask)</li>
+                        <li>PHP</li>
+                    </ul>
+
+                 <li><strong>Banco de Dados</strong> – Onde as informações são armazenadas. Alguns exemplos:</li>
+                         <ul>
+                            <li>MySQL</li>
+                            <li>PostgreSQL</li>
+                            <li>MongoDB</li>
+                         </ul>
+                </ol>
+         <h2>🔥 Tendências do Desenvolvimento Web</h2><hr>
+             <p>Algumas tendências estão moldando o futuro da web:</p>
+                <ul>
+                  <li>Aplicações Web Progressivas (PWA) – Sites que funcionam como apps nativos.</li>
+                 <li>Inteligência Artificial – Personalização de experiências com IA.</li>
+                 <li>Web 3.0 e Blockchain – Tecnologias descentralizadas para segurança e privacidade.</li>
+                </ul>
+            </section>
+            <section>
+            <h2>🎯 Dicas para Iniciantes</h2><hr>
+
+             <p>Se você está começando, siga estas etapas</p>
+             <ul>
+                <li>Aprenda HTML, CSS e JavaScript.</li>
+                <li>Pratique criando projetos simples.</li>
+                <li>Explore frameworks populares (React, Vue.js, Angular).</li>
+                <li>Entenda como funciona o backend.</li>
+                <li>Participe de comunidades e compartilhe seu código no GitHub.</li>
+            </ul>
+            </section>
+        </main>
+    </body>
+
+</html>
