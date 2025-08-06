@@ -11,7 +11,7 @@
          max-width: 670px;
           }
 
-        body {
+       body {
         background-color: #0D1117;
           }
 
